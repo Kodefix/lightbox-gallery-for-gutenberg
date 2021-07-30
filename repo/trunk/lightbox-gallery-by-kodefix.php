@@ -1,8 +1,8 @@
 <?php
 /*
-  Plugin Name: Lightbox gallery for Gutenberg
+  Plugin Name: Lightbox Gallery by Kodefix - Responsive Lightbox Effect for gallery block
   Plugin URI: https://kodefix.pl/
-  Description: An easy way to create lightbox effect for Gutenberg gallery. Just turn on the plugin and use powerful lightbox.
+  Description: An easy way to create lightbox effect for WordPress new editor's gallery block. Just turn on the plugin and use powerful lightbox.
 
   Version: 1.0.0
   Author: Kodefix
