@@ -4,7 +4,7 @@
   Plugin URI: https://kodefix.pl/
   Description: An easy way to create lightbox effect for WordPress new editor's gallery block. Just turn on the plugin and use powerful lightbox.
 
-  Version: 1.0.1
+  Version: 1.1
   Author: Kodefix
   Author URI: https://kodefix.pl/?utm_source=lightbox-for-gutenberg&utm_medium=plugin&utm_campaign=created_plugins
   Text Domain:  lightbox-gallery-for-gutenberg

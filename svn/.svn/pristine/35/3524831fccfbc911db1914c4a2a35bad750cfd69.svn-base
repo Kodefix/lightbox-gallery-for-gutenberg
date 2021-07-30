@@ -1,9 +1,9 @@
 === Lightbox Gallery by Kodefix - Responsive Lightbox Effect for gallery block ===
 Contributors: gkubiszyn
 Donate link:
-Tags: lightbox, gallery,
+Tags: lightbox, gallery, gallery block, block editor
 Requires at least: 5.0
-Tested up to: 5.8
+Tested up to: 5.4
 Stable tag: 4.3
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -16,6 +16,8 @@ An easy way to create lightbox effect for WordPress new editor's gallery block. 
 An easy way to create lightbox effect for WordPress editor's gallery block. Just turn on the plugin and use powerful lightbox.
 
 Just create gallery by using "gallery" block and use lightbox gallery effect powered by fslightbox.js
+
+Proudly created by [Kodefix](https://kodefix.pl/?utm_source=wordpress.org&utm_medium=description&utm_campaign=created_plugins "Kodefix")
 
 == Frequently Asked Questions ==
 
@@ -40,9 +42,6 @@ No. Plugin is powered by fslightbox.js library.
 1. Example lightbox.
 
 == Changelog ==
-
-= 1.1 =
-* Added support of figcaption & improved DOM manipulation
 
 = 1.0 =
 * Added fslightbox.js library.
